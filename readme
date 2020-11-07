@@ -13,3 +13,6 @@ P6是在C5的基础上通过3x3的卷积核，步长为2的卷积得到的，P7�
 每个卷积层后都有RELU激活函数，这之后连接的是fliter为KA
 （K是目标种类数，A是每层的anchors数，论文中是9)的3x3的卷积层，激活函数是sigmoid。
 
+权重地址：链接：https://pan.baidu.com/s/1oJAie2cGheZUbk9kQMp9Nw 
+提取码：454a 
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V1的分享
